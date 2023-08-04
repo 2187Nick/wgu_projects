@@ -41,7 +41,7 @@ body {
 }
 
 .card__header p {
-  opacity: 30%;
+  opacity: 100%;
 }
 
 .card__img {
